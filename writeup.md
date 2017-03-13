@@ -1,5 +1,3 @@
----
-
 **Vehicle Detection Project**
 
 The goals / steps of this project are the following:
@@ -50,7 +48,7 @@ Ultimately I searched on two scales using YCrCb 3-channel HOG features plus spat
 Here "Count Windows" refers to the number of windows searched in that frame. 
 
 ![alt_text](./output_images/pipeline.png)
----
+
 
 ### Video Implementation
 
